@@ -9,3 +9,10 @@ body {
 canvas {
   border: 2px solid rgb(152, 251, 152);
 }
+
+p, li, a {
+    font-size: 10px;
+    line-height: 2;
+    letter-spacing: 1px;
+    color: white;
+  }

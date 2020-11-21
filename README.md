@@ -1,9 +1,13 @@
 # Cobra Kai 🐍
 ---
 
+<p align="left">
+
 Cobra Kai é o famoso e clássico jogo da cobrinha.
 O joguinho foi criado em JavaScript e teve como base: https://cutt.ly/KhtatSv
 Vamos melhor o joguinho?
+
+</p>
 
 <div align="center">
 

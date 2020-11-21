@@ -117,7 +117,7 @@ Game.Draw = function(context, snake) {
     }
     
     if (this.collision(nx, ny) == true) {
-      
+      alert("Perdeuuu... Tente novamente!")
       snake.restart();
       return;
     }

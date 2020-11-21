@@ -1,3 +1,9 @@
+/*
+Autor      : Fábio Araújo
+Repositório: github.com/fabioara
+<contribua, vamos melhorar o joguinho>
+*/
+
 var Game      = Game      || {};
 var Keyboard  = Keyboard  || {}; 
 var Component = Component || {};
@@ -100,7 +106,8 @@ Game.Draw = function(context, snake) {
 		
     var nx = snake.stage.length[0].x;
 		var ny = snake.stage.length[0].y;
-		
+    
+        // valida a direção do cobrinha
     switch (snake.stage.direction) {
       case 'right':
         nx++;
